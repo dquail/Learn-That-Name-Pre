@@ -1,0 +1,9 @@
+{
+	"id": "com.ltn.ltn",
+	"version": "1.0.0",
+	"vendor": "Learn That Name",
+	"type": "web",
+	"main": "index.html",
+	"title": "Learn That Name",
+	"icon": "icon.png"
+}

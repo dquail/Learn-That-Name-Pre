@@ -1,0 +1,6 @@
+<div class="palm-header-spacer"></div>
+<div class="palm-header-spacer"></div>
+<div class="palm-header-spacer"></div>
+<div class="palm-header-spacer"></div>
+<div x-mojo-element="Button" id="configure"></div>
+<div x-mojo-element="Button" id="game"></div>

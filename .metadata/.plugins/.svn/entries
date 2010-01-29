@@ -1,0 +1,70 @@
+8
+
+dir
+150
+http://whosthat.svn.beanstalkapp.com/iphone/pre2/LearnThatName/.metadata/.plugins
+http://whosthat.svn.beanstalkapp.com/iphone
+
+
+
+2009-09-17T05:00:01.433957Z
+147
+jeetu
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fb2a446e-93cc-443b-b167-a40bf97e52fd
+
+org.eclipse.mylyn.bugzilla.core
+dir
+
+org.eclipse.team.cvs.core
+dir
+
+org.eclipse.ui.intro
+dir
+
+org.eclipse.wst.jsdt.core
+dir
+
+org.eclipse.jdt.core
+dir
+
+org.eclipse.core.runtime
+dir
+
+org.eclipse.epp.usagedata.recording
+dir
+
+org.eclipse.wst.jsdt.ui
+dir
+
+org.eclipse.debug.core
+dir
+
+org.eclipse.jdt.ui
+dir
+
+org.eclipse.ui.workbench
+dir
+
+org.eclipse.core.resources
+dir
+
+org.eclipse.debug.ui
+dir
+
+org.eclipse.jst.jsp.core
+dir
+

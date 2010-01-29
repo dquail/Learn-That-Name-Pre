@@ -1,0 +1,52 @@
+8
+
+dir
+150
+http://whosthat.svn.beanstalkapp.com/iphone/pre2/LearnThatName/app/models/cache
+http://whosthat.svn.beanstalkapp.com/iphone
+
+
+
+2009-09-19T19:40:47.229964Z
+150
+jeetu
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fb2a446e-93cc-443b-b167-a40bf97e52fd
+
+contactManager.js
+file
+
+
+
+
+2009-09-18T21:20:01.000000Z
+dfd42f09605843554a599aba77fbdc58
+2009-09-19T19:40:47.229964Z
+150
+jeetu
+
+contactCache.js
+file
+
+
+
+
+2009-09-23T04:58:54.000000Z
+09456e2de8a5722ab7fb65de658c8750
+2009-09-03T06:36:55.533935Z
+125
+jeetu
+

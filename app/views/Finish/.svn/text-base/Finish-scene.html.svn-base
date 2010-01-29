@@ -1,0 +1,39 @@
+<div id = "finish_background">
+	<img id = "finishtitle" src=""></img><div style="position: absolute; right: 10px; top: 25px;" id = "totalscore"></div> 
+	<div id = "people">
+		<div id = "person0" class="person">
+			<img id="person0Photo" src="">
+			<div id = "person0Name" class = "name"></div>
+			<div id= "person0Title" class = "title"></div>
+			<div id ="person0Company" class = "company"></div>
+		</div>
+		<div id = "person1" class="person">
+			<img id="person1Photo" src="">
+			<div id="person1Name" class = "name"></div>
+			<div id="person1Title" class = "title"></div>
+			<div id="person1Company" class = "company"></div>
+		</div>
+		<div id = "person2" class="person">
+			<img id="person2Photo" src="">
+			<div id="person2Name" class = "name"></div>
+			<div id="person2Title" class = "title"></div>
+			<div id="person2Company" class = "company"></div>
+		</div>
+		
+		<div id = "person3" class="person">
+			<img id="person3Photo" src="">
+			<div id="person3Name" class = "name"></div>
+			<div id="person3Title" class = "title"></div>
+			<div id="person3Company" class = "company"></div>
+		</div>
+		
+		<div id = "person4" class="person">
+			<img id="person4Photo" src="">
+			<div id="person4Name" class = "name"></div>
+			<div id="person4Title" class = "title"></div>
+			<div id="person4Company" class = "company"></div>
+		</div>				
+		
+	</div>
+	<div id = "finishFooter"><div x-mojo-element="Button" id="playAgain"></div></div>
+</div>

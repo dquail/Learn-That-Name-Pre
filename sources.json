@@ -1,0 +1,29 @@
+[
+    {"source": "app\/assistants\/stage-assistant.js"},
+    {"source": "app\/models\/game\/game.js"},
+    {"source": "app\/models\/game\/question.js"},
+    {"source": "app\/models\/game\/round.js"},
+    {"source": "app\/models\/cache\/contactManager.js"},
+    {"source": "app\/controllers\/gameController.js"},
+    {"source": "javascript\/support_info.js"},
+    {
+        "source": "app\/assistants\/Configure-assistant.js",
+        "scenes": "Configure"
+    },
+    {
+        "source": "app\/assistants\/Game-assistant.js",
+        "scenes": "Game"
+    },
+    {
+        "source": "app\/assistants\/Finish-assistant.js",
+        "scenes": "Finish"
+    },
+    {
+        "source": "app\/assistants\/Splash-assistant.js",
+        "scenes": "Splash"
+    },
+    {
+        "source": "app\/assistants\/support-assistant.js",
+        "scenes": "support"
+    }
+]

@@ -1,0 +1,9 @@
+{
+	"id": "com.learnthatname.learnthatname",
+	"version": "0.9.3",
+	"vendor": "Learn That Name",
+	"type": "native",
+	"main": "index.html",
+	"title": "Learn That Name",
+	"icon": "icon.png"
+}

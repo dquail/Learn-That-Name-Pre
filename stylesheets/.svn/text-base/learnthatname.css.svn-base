@@ -1,0 +1,324 @@
+/* Put Application specific CSS here.*/ 
+/******CONFIGURE*****/
+.progress
+{
+	text-align: center;
+}
+
+#configure_background #logon_form
+{
+	background-color: #d1c1c1;
+	position:absolute;
+	top: 290px;
+	margin:5px;
+	width:310px;
+	height: 80px;
+}
+#configure_background #logon_form #email, #password
+{
+	padding-top:5px;
+	padding-left:50px;
+	width:200px;
+	text-align:center;
+	
+}
+#configure_background #progressbar
+{
+	margin-top:260px;
+}
+#configure_background #temp, #temp2
+{
+	position:absolute;
+	top:350px;
+	margin:10px;
+	color:#ffffff;
+	font-size:14px;
+	font-style:italic;
+}
+
+#configure_background #please_login
+{
+	color:#ffffff;
+	font-size:12px;
+	position:absolute;
+	top:55px;
+	margin:25px;
+	text-align:center;
+}
+
+
+/******GAME******/
+#question_header
+{
+	padding:5px;
+	width:320px;
+	height:95px;
+	/*background-color: #4381db;*/
+	/*background-image: url("../images/bgQuestion.png");*/
+	background-repeat:no-repeat;
+	color: #ffffff;
+}
+#answers
+{
+	margin:25px;
+	height:195px;
+}
+.answer
+{
+	
+	height:50px;
+}
+#question_header #photo
+{
+	float:left;
+	margin:5px;
+	margin-top:14px;
+	margin-left: 18px;
+	width: 75px;
+	height: 75px;
+}
+#question_header #question
+{
+	float: left;
+	/*margin-top:20px;*/
+	padding-top:25px;
+	width:180px;
+	text-align:center;
+	font-size:22px;
+	font-weight:bold;
+	vertical-align:middle;
+}
+#status
+{
+	color:#ffffff;
+	height:100px;
+	padding-top:27px;
+}
+#status #round
+{
+	margin-left:150px;
+	font-size:20px;
+	font-style:italic;
+}
+#status #available_points
+{
+	margin-left: 15px;
+	font-size: 24px;
+}
+#result
+{
+	color:red;
+	text-align:center;
+}
+
+
+#totalscore
+{
+	margin: 10px;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: right;
+	color: #FFFFFF;
+}
+
+/****FINISH DIALOF*********/
+
+#conclusion
+{
+	margin: 10px;
+	font-size: 16px;
+	text-align: center;
+	color: #260c5c;
+}
+#finishtitle
+{
+	margin:15px;
+	text-align:center;
+	font-weight:bold;
+	font-size:18px;
+}
+
+#people {
+	position: absolute;
+	top: 80px;
+}
+
+.person {
+	width: 300px;
+	height: 60px;
+	background-image: url(../images/personBackground.png);
+	margin-left:10px;
+	color: #260c5c;	
+	margin-top:2px;
+}
+.person img {
+	width: 36px;
+	float: left;
+	padding-top:11px;
+	padding-left:5px;
+}
+
+.person .name{
+	padding-top: 3px;
+	padding-left: 80px;
+	font-weight:bold;
+	font-size:14px;
+} 
+.person .title{
+	padding-left: 80px;
+	font-size:12px;
+	font-style:italic;
+}
+.person .company{
+	padding-left: 80px;
+	font-size:12px;
+}
+
+
+#nextQuestion
+{
+ position:absolute;
+ margin-top:0px;
+ padding-top:10px;
+ background-color:#0b0f0f;
+}
+#nextQuestion .palm-button
+{	
+	color: #38628b; 	
+	width:320px;
+	height:95px;
+	background-color:#ffffff;
+	margin:0px;
+	/*margin-bottom:20px;*/
+	font-size:28px;
+	font-style:italic;
+	font-weight:bold;
+	 -webkit-border-image: url(../images/palm-button-next.png) 0 16 68 16 
+}
+
+#finishFooter
+{
+	position:absolute;
+	top:390px;
+}
+#playAgain .palm-button
+{	
+	color: #38628b; 		
+	width:320px;
+	height:95px;
+	background-color:#ffffff;
+	margin:0px;
+	/*margin-bottom:20px;*/
+	font-size:28px;
+	font-style:italic;
+	font-weight:bold;
+	 -webkit-border-image: url(../images/palm-button-next.png) 0 16 68 16 
+}
+
+.palm-button
+{
+	color:#000000;
+}
+.palm-button.disabled
+{
+	color:#ffffff;
+}
+.palm-button.negative.disabled,
+#palm-dialog-box .palm-button.negative.disabled {
+	color:black;
+  -webkit-border-image: url(../images/palm-button-negative.png) 0 17 104 17 repeat repeat;
+}
+.palm-button.affirmative.disabled,
+#palm-dialog-box .palm-button.affirmative.disabled {
+	color:black;
+  -webkit-border-image: url(../images/palm-button-affirmative.png) 0 17 104 17 repeat repeat;
+}
+
+
+body.palm-default {
+
+}
+#game_background{
+	background-image: url("../images/mainUI3.png");
+	background-repeat:no-repeat;
+}
+#finish_background{
+	background-image: url("../images/GameOver4.png");
+	background-repeat: no-repeat;	
+	height:480px;
+}
+
+#splash_background, #configure_background{
+	background-image: url("../images/Default.png");
+	background-repeat: no-repeat;	
+	height:480px;	
+}
+
+#splash_background #play{
+	position: absolute;
+	top: 345px;
+	left: 10px;
+	width:280px;
+	margin:10px;
+}
+
+#splash_background #import{
+	left:10px;
+	top: 285px;
+	position:absolute;
+	width:280px;
+	margin:10px;	
+}
+
+/*****HELP*******/
+.img_icon {
+	position:absolute;
+	left:10px;
+	top:5px;
+	width:32px; 
+	height:32px;
+	background: url(../icon32x32.png) no-repeat center ;
+	padding: 10px 0px 0px 5px;
+	float:left;	
+}
+.list_scene {
+	position:relative;
+	left:48px;
+	top:10px;
+	width:32px; 
+	height:32px;
+	vertical-align:bottom;
+	padding: 0px 0px 0px 5px;
+	float:left;
+}
+.img_email {
+	position:relative;
+	left:8px;
+	top:10px;
+	width:32px; 
+	height:32px;
+	background: url(../images/application-email.png) no-repeat bottom;
+	vertical-align:bottom;
+	padding: 0px 0px 0px 5px;
+	float:left;
+}
+.img_phone {
+	position:relative;
+	left:8px;
+	top:10px;
+	width:32px; 
+	height:32px;
+	background: url(../images/application-phone.png) no-repeat  bottom;
+	padding: 0px 0px 0px 5px;
+	float:left;
+}
+.img_web {
+	position:relative;
+	left:8px;
+	top:10px;
+	width:32px; 
+	height:32px;
+	background: url(../images/application-web.png) no-repeat  bottom;
+	padding: 0px 0px 0px 5px;
+	float:left;
+}
